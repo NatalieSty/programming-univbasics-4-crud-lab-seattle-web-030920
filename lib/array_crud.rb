@@ -3,7 +3,8 @@ def create_an_empty_array
 end
 
 def create_an_array
-  a = new Array(1,2,3,4)
+  a = Array.new(4)       #=> [nil, nil, nil]
+
 end
 
 def add_element_to_end_of_array(array, element)
