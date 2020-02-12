@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  $a = new Array()
 end
 
 def create_an_array
