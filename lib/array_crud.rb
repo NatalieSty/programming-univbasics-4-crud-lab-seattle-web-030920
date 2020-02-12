@@ -1,9 +1,9 @@
 def create_an_empty_array
-  $a = new Array()
+  []
 end
 
 def create_an_array
-  
+  a = new Array()
 end
 
 def add_element_to_end_of_array(array, element)
